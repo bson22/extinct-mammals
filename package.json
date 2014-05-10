@@ -1,0 +1,24 @@
+{
+  "name": "extinct-mammals",
+  "version": "0.0.0",
+  "description": "nodejs-mongo project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bson22/extinct-mammals.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bson22/extinct-mammals/issues"
+  },
+  "homepage": "https://github.com/bson22/extinct-mammals",
+  "dependencies": {
+    "mongoose": "^3.8.9",
+    "express": "^4.1.2",
+    "body-parser": "^1.0.2"
+  }
+}
